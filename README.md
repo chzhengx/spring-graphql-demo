@@ -43,9 +43,8 @@ spring-graphql-demo 是一个展示如何使用Spring构建GraphQL应用程序�
 克隆项目仓库到本地，然后使用Spring Boot运行：
 
 ```bash
-Copy code
 git clone https://github.com/yourusername/spring-graphql-demo.git
-cd spring-graphql-demo
+cd spring-graphql-demo/子项目
 ./mvnw spring-boot:run
 ```
 

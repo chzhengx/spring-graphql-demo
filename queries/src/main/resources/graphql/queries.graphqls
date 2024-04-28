@@ -1,7 +1,7 @@
-type Query{
+type Query {
     users: [User]
     userById(id: ID): User
-    helloWithName( name: String): String
+    helloWithName(name: String): String
     hello: String
 }
 
